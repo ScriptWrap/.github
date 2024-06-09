@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="20%" height="20%" src="https://github.com/Oak-Store/.github/blob/main/profile/store-icon.png" />
+  <img width="20%" height="20%" src="https://avatars.githubusercontent.com/u/172158006?s=400&u=bd25903d55ecdd876355368dcc01d420ebd1ac2a&v=4" />
 </div>
 
 <div align="center">
