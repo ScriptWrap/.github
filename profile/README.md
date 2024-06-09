@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Oak-Store/.github/blob/main/profile/store-icon.png" />
+  <img width="20%" height="20%" src="https://github.com/Oak-Store/.github/blob/main/profile/store-icon.png" />
    Welcome to the Oak Store page!
    In this repository you will find all Oak Web and Android updates!
 </div>
