@@ -1,4 +1,5 @@
 <div align="center">
+  <img src=".store-icon.png" />
    Welcome to the Oak Store page!
    In this repository you will find all Oak Web and Android updates!
 </div>
