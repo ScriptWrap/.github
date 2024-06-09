@@ -30,7 +30,7 @@
 - **Description**: Well, you may already know Oak Web, right? Oak Android is the Android version of it!
 - **Status**: In slow development...
 - **Responsible**: [Aquiles Trindade](https://github.com/aquilesTrindade)
-- [Skinvent](https://github.com/skinvent)
+[Skinvent](https://github.com/skinvent)
 <a href="https://github.com/Oak-Store/Oak-Android/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Oak-Store/Oak-Android" />
 </a>
