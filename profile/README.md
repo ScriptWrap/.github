@@ -1,12 +1,29 @@
-## Hi there 👋
+<div align="center">
+   Bem-vindo à página da Oak Store!
+   Neste repositório, você encontrará todas as atualizações do Oak Web e Android!
+</div>
 
-<!--
+# Membros
 
-**Here are some ideas to get you started:**
+- [Aquiles Trindade](https://github.com/aquilesTrindade)
+- [Agel SK](https://github.com/aglsk)
+- [Suay Dev](https://github.com/devsuay)
+- E você em breve!
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# Projetos Oak
+
+### Oak Web
+- **Descrição**: Outra loja de aplicativos web
+- **Status**: Em desenvolvimento 
+- **Responsável**: [AGL SK](https://github.com/aglsk)
+
+### [Oak Android](https://github.com/aquilesTrindade/Oak-Android)
+- **Descrição**: Bem, você já deve conhecer o Oak Web, certo? O Oak Android é a versão Android dele!
+- **Status**: Em desenvolvimento 
+- **Responsável**: [Aquiles Trindade](https://github.com/aquilesTrindade)
+
+# Contribuidores:
+
+<a href="https://github.com/Oak-Store/Oak-Web/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Oak-Store/Oak-Web" />
+</a>
