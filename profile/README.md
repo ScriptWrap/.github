@@ -31,3 +31,4 @@
 <a href="https://github.com/Oak-Store/Oak-Android/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Oak-Store/Oak-Android" />
 </a>
+</a>
