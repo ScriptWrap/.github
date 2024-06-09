@@ -14,7 +14,7 @@
 
 ### [Oak Web](https://github.com/Oak-Store/Oak-Web)
 - **Description**: Another web app store
-- **Status**: Under development 
+- **Status**: In development
 - **Responsible**: [AGL SK](https://github.com/aglsk)
 <a href="https://github.com/Oak-Store/Oak-Web/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Oak-Store/Oak-Web" />
@@ -22,7 +22,7 @@
 
 ### [Oak Android](https://github.com/Oak-Store/Oak-Android)
 - **Description**: Well, you may already know Oak Web, right? Oak Android is the Android version of it!
-- **Status**: Under development 
+- **Status**: In slow development...
 - **Responsible**: [Aquiles Trindade](https://github.com/aquilesTrindade)
 <a href="https://github.com/Oak-Store/Oak-Android/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Oak-Store/Oak-Android" />
