@@ -8,7 +8,7 @@
 - [Aquiles Trindade](https://github.com/aquilesTrindade)
 - [Agel SK](https://github.com/aglsk)
 - [Suay Dev](https://github.com/devsuay)
-- E você em breve!
+- And you soon!
 
 # Oak Projects
 
