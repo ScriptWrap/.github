@@ -24,6 +24,6 @@
 
 # Contributors:
 
-<a href="https://github.com/Oak-Store/Oak-Web/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Oak-Store/Oak-Web" />
+<a href="https://github.com/Oak-Store/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Oak-Store" />
 </a>
